@@ -1,4 +1,4 @@
-{
+[{
   "name": "Joh Doe",
   "employeeID": 2,
   "Unassigned": true
@@ -47,4 +47,4 @@
   "name": "Jan Do",
   "employeeID": 10,
   "Unassigned": false
-}
+}]
