@@ -1,4 +1,4 @@
-{[ "Mon": {
+[{ "Mon": {
 "defaultStartTimeHour" : "09",
 "defaultStartTimeMinute" : "00",
 "defaultEndTimeHour" : "17",
@@ -39,5 +39,5 @@
 "defaultStartTimeMinute" : "00",
 "defaultEndTimeHour" : "17",
 "defaultEndTimeMinute" : "30"
-}]
 }
+}]
